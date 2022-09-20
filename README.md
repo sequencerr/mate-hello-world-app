@@ -1,1 +1,1 @@
-# meta-hello-world-app
+# mate-hello-world-app
